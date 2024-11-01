@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SpamJam\n"
+"POT-Creation-Date: 2022-08-16 23:06+0200\n"
+"PO-Revision-Date: 2022-07-25 23:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: spamjam.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: spamjam.php:98
+msgid "Do not "
+msgstr ""
+
+#: spamjam.php:102
+msgid "confirm email:"
+msgstr ""
+
+#: spamjam.php:108
+msgid "fill comment:"
+msgstr ""
+
+#: spamjam.php:230
+msgid "Year of birth"
+msgstr ""
+
+#: spamjam.php:265
+msgid "<strong>ERROR</strong>: Please enter your year of birth."
+msgstr ""
+
+#: spamjam.php:295
+msgid "<strong>ERROR</strong>: You must be at least 13 years old."
+msgstr ""
+
+#: spamjam.php:384
+#, php-format
+msgid "<p><strong>%s: </strong>%s. You've been SpamJammed!</p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SpamJam"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://utopique.net/products/spamjam/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SpamJam stops comments and registration spams in their tracks, silently."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Utopique"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://utopique.net/"
+msgstr ""

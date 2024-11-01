@@ -1,0 +1,56 @@
+= 0.5.1 - 2024-05-28 =
+*   Add - WooCommerce HPOS support
+*   Enhancement - optimize the main function to reduce plugin load.
+*   Enhancement - PHPCS fixes.
+*   Update - latest FS.
+
+= 0.5 - 2024-04-10 =
+*   Add - more nonces
+*   Add - use sha256 instead of MD5
+*   Add - blocklist spam checker
+*   Add - blocklist updater
+*   Add - registration spam checker
+*   Enhancement - prune unused code
+*   Enhancement - PHPCS fixes
+*   Update - latest FS
+
+= 0.4.1 - 2023-09-08 =
+*   Update - latest FS
+
+= 0.4.0 - 2023-07-03 =
+*   Add - Javascript event to make sure the content has been read prior to commenting
+*   Add - settings page
+*   Add - error code(s) to message when spam is detected
+*   Add - CSS styling for the labels
+*   Add - latest FS
+*   Enhancement - code refactor
+*   Enhancement - only load JS code where comments sections are displayed
+*   Enhancement - modularize antispam for registration
+*   Fix - Correct callback name for main function
+*   Update - POT file and translations
+
+= 0.3.1 - 2023-07-03 =
+*   Add - Javascript event to make sure the content has been read prior to commenting
+*   Add - settings page
+*   Add - error code(s) to message when spam is detected
+*   Add - CSS styling for the labels
+*   Enhancement - modularize antispam for registration
+*   Enhancement - add FS
+*   Update - POT file and translations
+
+= 0.2.2 - 2022-08-05 =
+*   Enhancement - ensure logged-in users can comment safely
+
+= 0.2.1 - 2022-08-02 =
+*   Enhancement - add nonce field check
+*   Fix - remove debug logs
+
+= 0.2.0 - 2022-08-01 =
+*   Enhancement - make sure empty comments cannot be posted
+
+= 0.1.1 - 2022-07-26 =
+*   Enhancement - more escaping and sanitizing
+*   Enhancement - improve field management logic
+
+= 0.1 - 2022-07-24 =
+*   First public release
